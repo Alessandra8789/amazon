@@ -1,0 +1,80 @@
+.extra-margin{
+  top:5px;
+}
+.formbox{
+   font-family: "Amazon Ember",Arial,sans-serif;
+   font-weight:120;
+  font-size: 11px;
+  border: .5px solid lightgrey;
+  border-radius: 5px;
+  margin: auto;
+  padding: 20px;
+
+}
+.bodyseperater{
+  display:inline-block;
+  width: 50px;
+
+}
+.image-one{
+  display: block;
+  margin: 1px auto;
+  height: 120px;
+  width: 220px;
+}
+.main1{
+  border: .5px solid grey;
+
+}
+.form-group{
+font-weight: bold;
+font-size:10px;
+display: block;
+width:100%auto;
+}
+
+button{
+  margin-top:25px;
+  width: 100% auto;
+  border: .2px solid #000;
+  background-color: #ffffff;
+}
+details{
+  color:blue;
+  display:inline;
+  position: relative;
+  top:0;
+  right:0;
+}
+#small{
+  text-align: center;
+}
+#b2{
+  border: .5px solid lightgrey;
+  font-size: 10px;
+
+}
+
+.form-control:focus {
+border-color:orange;
+box-shadow: 0 0 3px orange;
+-moz-box-shadow: 0 0 3px orange;
+-webkit-box-shadow: 0 0 3px orange;
+
+}
+
+.page-footer{
+  margin: 25px auto;
+  text-align: center;
+  font-size: 13px;
+}
+.footer{
+  color: grey;
+  line-height: 29px;
+  padding: 0 10px 0 11px
+
+}
+.footer-seperater{
+  display:inline-block;
+  width: 20px;
+}
